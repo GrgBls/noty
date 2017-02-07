@@ -17,6 +17,20 @@
     $ Noty
     
     # You are now ready to use it!
+
+### Without using pip
+    
+    # Clone the repository
+    $ git clone https://github.com/GrgBls/Noty.git
+    $ cd Noty
+    
+    # Install Noty
+    $ sudo python setup.py install
+    
+    # Run it
+    $ Noty
+    
+    # You are now ready to use it!
     
 
 
