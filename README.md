@@ -1,8 +1,8 @@
-###Creating sticky notes has never been easier.
+### Creating sticky notes has never been easier.
 
 #### :heavy_exclamation_mark: This program will not work with Python3, it only works with Python 2
 
-#### Published at pypi: [Noty](https://pypi.python.org/pypi/stickynoty)
+#### Published at pypi: [Noty](https://pypi.python.org/pypi/Noty)
 
 
 ## Installation
@@ -21,7 +21,7 @@
 ### Without using pip
     
     # Clone the repository
-    $ git clone https://github.com/GrgBls/Sticky-Noty.git
+    $ git clone https://github.com/GrgBls/Noty.git
     $ cd Noty
     
     # Install Noty
