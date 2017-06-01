@@ -3,7 +3,7 @@
 #### :heavy_exclamation_mark: This program will not work with Python3, it only works with Python 2
 #### Published at pypi: [Noty](https://pypi.python.org/pypi/Noty)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/08L2K"><a href="//imgur.com/08L2K"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="http://imgur.com/a/08L2K"><img src="http://imgur.com/a/08L2K" title="Noty"/></a>
 
 
 
