@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = 'Noty',
-    version = '0.1.0',
+    version = '0.1.1',
     description = 'Creating sticky notes has never been easier',
     author = 'GrgBls',
     author_email = 'gmpalis6@gmail.com',

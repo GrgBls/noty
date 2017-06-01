@@ -2,7 +2,7 @@
 
 #### :heavy_exclamation_mark: This program will not work with Python3, it only works with Python 2
 
-#### Published at pypi: [Noty](https://pypi.python.org/pypi/Noty)
+#### Published at pypi: [Noty](https://pypi.python.org/pypi/stickynoty)
 
 
 ## Installation
@@ -21,7 +21,7 @@
 ### Without using pip
     
     # Clone the repository
-    $ git clone https://github.com/GrgBls/Noty.git
+    $ git clone https://github.com/GrgBls/Sticky-Noty.git
     $ cd Noty
     
     # Install Noty
