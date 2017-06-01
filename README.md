@@ -39,4 +39,5 @@
 
 ### install_requires
 Python2  
+Tkinter
 ---
