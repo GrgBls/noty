@@ -3,7 +3,7 @@
 #### :heavy_exclamation_mark: This program will not work with Python3, it only works with Python 2
 #### Published at pypi: [Noty](https://pypi.python.org/pypi/Noty)
 
-<a href="http://imgur.com/a/08L2K"><img src="http://imgur.com/a/08L2K" title="Noty"/></a>
+<a href="https://cloud.githubusercontent.com/assets/24195309/26691723/7e450dba-46fe-11e7-890d-e641d7e46007.gif"><img src="https://cloud.githubusercontent.com/assets/24195309/26691723/7e450dba-46fe-11e7-890d-e641d7e46007.gif" title="Noty"/></a>
 
 
 
