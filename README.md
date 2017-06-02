@@ -1,3 +1,6 @@
+[![pypi](https://img.shields.io/pypi/v/Noty.svg)](https://pypi.python.org/pypi/Noty)
+[![GitHub license](https://img.shields.io/github/license/GrgBls/Noty.svg)](https://github.com/GrgBls/Noty)
+
 ### Creating sticky notes has never been easier.
 
 #### :heavy_exclamation_mark: This program will not work with Python2, it only works with Python3
