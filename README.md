@@ -35,6 +35,17 @@
     
     # You are now ready to use it!
     
+### How to:
+    
+    # Run it
+    $ Noty
+    
+    #Type your notes
+    $ Remember to buy milk.
+    
+    #You are now ready to use it.
+ 
+    
 
 
 ### install_requires
