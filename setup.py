@@ -10,7 +10,7 @@ setup(
     url = 'https://github.com/GrgBls/noty', 
     py_modules=['noty'],
     install_requires=[
-        
+        #
     ],
     entry_points='''
         [console_scripts]
