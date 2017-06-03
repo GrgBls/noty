@@ -9,7 +9,7 @@ setup(
     url = 'https://github.com/GrgBls/Noty', 
     py_modules=['Noty'],
     install_requires=[
-        # list of this package dependencies
+        'tkinter'
     ],
     entry_points='''
         [console_scripts]
