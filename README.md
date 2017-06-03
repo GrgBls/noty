@@ -18,31 +18,31 @@
 ## With pip
 
     # Install package from pypi
-    $ pip3 install Noty
+    $ pip3 install noty
     
     # Run it
-    $ Noty
+    $ noty
     
     # You are now ready to use it!
 
 ## Without using pip
     
     # Clone the repository
-    $ git clone https://github.com/GrgBls/Noty.git
-    $ cd Noty
+    $ git clone https://github.com/GrgBls/noty.git
+    $ cd noty
     
-    # Install Noty
+    # Install noty
     $ sudo python3 setup.py install
     
     # Run it
-    $ Noty
+    $ noty
     
     # You are now ready to use it!
     
 ## How to:
     
     # Run it
-    $ Noty
+    $ noty
     
     #Type your notes
     $ Remember to buy milk.
