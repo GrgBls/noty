@@ -7,7 +7,7 @@
 #### :heavy_exclamation_mark: This program will not work with Python2, it only works with Python3
 #### Published at pypi: [Noty](https://pypi.python.org/pypi/Noty)
 
-<a href="https://cloud.githubusercontent.com/assets/24195309/26691723/7e450dba-46fe-11e7-890d-e641d7e46007.gif"><img src="https://cloud.githubusercontent.com/assets/24195309/26691723/7e450dba-46fe-11e7-890d-e641d7e46007.gif" title="Noty"/></a>
+<a href="https://cloud.githubusercontent.com/assets/24195309/26754364/e3bcdbce-4879-11e7-924b-82e9dc434b50.gif"><img src="https://cloud.githubusercontent.com/assets/24195309/26754364/e3bcdbce-4879-11e7-924b-82e9dc434b50.gif" title="Noty"/></a>
 
 
 
