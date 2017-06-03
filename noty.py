@@ -14,8 +14,9 @@ def cli():
 	root.geometry("300x300")
 	#changes the width and height of the GUI.
 	Label(root, text=today).pack()
-	#prints the input
+	#prints the current weather.
 	Label(root, text=x).pack()
+	#prints the input.
 	root.mainloop()
   
 
