@@ -1,4 +1,4 @@
-from supertools import setup
+from setuptools import setup
 
 setup(
     name = 'noty',
