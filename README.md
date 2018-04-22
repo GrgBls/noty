@@ -15,7 +15,7 @@
 ## Installation
 ---
 
-## With pip
+## With pip(Warning: As of now, pip installation doesn't work. Please install using the no pip method. I am working to fix this.Thanks for understanding.
 
     # Install package from pypi
     $ pip3 install noty
