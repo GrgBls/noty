@@ -15,42 +15,31 @@
 ## Installation
 ---
 
-## With pip
-:heavy_exclamation_mark: Warning: As of now, pip installation doesn't work. Please install using the no pip method. I am working to fix this.Thanks for understanding.
-
-    # Install package from pypi
-    $ pip3 install noty
-    
-    # Run it
-    $ noty
-    
-    # You are now ready to use it!
-
-## Without using pip
-    
     # Clone the repository
     $ git clone https://github.com/GrgBls/noty.git
+
+    # Move into noty folder.
     $ cd noty
-    
+
     # Install noty
     $ sudo python3 setup.py install
-    
+
     # Run it
     $ noty
-    
+
     # You are now ready to use it!
-    
+
 ## How to:
-    
+
     # Run it
     $ noty
-    
+
     #Type your notes
     $ Remember to buy milk.
-    
+
     #You are now ready to use it.
-    
-    
+
+
 ## Contributing instructions.
 
 1. Fork the repository.
@@ -58,7 +47,7 @@
 3. Commit your changes: `git commit -am 'Fixed something.'`
 4. Push to the branch: `git push origin my-branch`
 5. Submit a pull request.
-    
+
 
 
 ### install_requires
