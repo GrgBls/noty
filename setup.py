@@ -1,4 +1,4 @@
-from distutils.core import setup
+from supertools import setup
 
 setup(
     name = 'noty',
