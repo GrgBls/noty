@@ -13,7 +13,7 @@
 ## Installation
 ---
 
-<<<<<<< HEAD
+
 ## Using pip:
     
     # Install it
@@ -27,7 +27,7 @@
 ## Without using pip:
 
 =======
->>>>>>> 5a68d84ae896978ca3fcd1448fd6b7a08f13a52f
+
     # Clone the repository
     $ git clone https://github.com/GrgBls/noty.git
 
@@ -64,18 +64,7 @@
 
 
 ### install_requires
-<<<<<<< HEAD
----
-=======
->>>>>>> 5a68d84ae896978ca3fcd1448fd6b7a08f13a52f
-Python3  
 
+python3
 tkinter
-
-<<<<<<< HEAD
-setuptool 
-=======
 setuptools
-
----
->>>>>>> 5a68d84ae896978ca3fcd1448fd6b7a08f13a52f
