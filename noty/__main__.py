@@ -2,10 +2,9 @@ from tkinter import *
 
 def cli():
 	import time
-	import datetime
-	today = datetime.date.today()
+	today = time.ctime()
 	print("Welcome to Noty.You can now create sticky notes, easily.")
-	time.sleep(1.5)
+	time.sleep(1)
 	x=input("Type your notes here: ")
 	time.sleep(1)
 	#time.sleep prevents GUI from popping up before it receives input.
@@ -18,6 +17,3 @@ def cli():
 	Label(root, text=x).pack()
 	#prints the input.
 	root.mainloop()
-  
-
-
