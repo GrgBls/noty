@@ -66,5 +66,7 @@
 ### install_requires
 
 python3
+
 tkinter
+
 setuptools
