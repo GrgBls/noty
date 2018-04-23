@@ -26,8 +26,6 @@
 
 ## Without using pip:
 
-=======
-
     # Clone the repository
     $ git clone https://github.com/GrgBls/noty.git
 
