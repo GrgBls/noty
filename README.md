@@ -1,6 +1,8 @@
 ### Creating sticky notes has never been easier.
 
+[![PyPI version](https://badge.fury.io/py/noty.svg)](https://badge.fury.io/py/noty)
 [![GitHub license](https://img.shields.io/github/license/GrgBls/Noty.svg)](https://github.com/GrgBls/Noty)
+[![GitHub (pre-)release](https://img.shields.io/github/release/GrgBls/noty/all.svg)
 
 
 #### :heavy_exclamation_mark: This program will not work with Python2, it only works with Python3
