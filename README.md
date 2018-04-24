@@ -4,6 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/GrgBls/Noty.svg)](https://github.com/GrgBls/Noty)
 ![GitHub (pre-)release](https://img.shields.io/github/release/GrgBls/noty/all.svg)
 
+### Now available at PyPI: [noty](https://pypi.org/project/noty)
 
 #### :heavy_exclamation_mark: This program will not work with Python2, it only works with Python3
 
@@ -24,7 +25,7 @@
     # Run it
     $ noty
 
-    #You are now ready to use it!
+    # You are now ready to use it!
 
 ## Without using pip:
 
@@ -47,10 +48,10 @@
     # Run it
     $ noty
 
-    #Type your notes
+    # Type your notes
     $ Remember to buy milk.
 
-    #You are now ready to use it.
+    # You are now ready to use it.
 
 
 ## Contributing instructions.
