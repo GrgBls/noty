@@ -1,4 +1,4 @@
-import tkinter
+import tkinter as tk
 
 def cli():
 	import time
@@ -9,13 +9,13 @@ def cli():
 	note = input("Type your notes here: ")
 	time.sleep(1)
 	#time.sleep prevents GUI from popping up before it receives input.
-	root = Tk()
+	root = tk.Tk()
 	root.title("Noty")
 	root.geometry("300x300")
 	#changes the width and height of the GUI.
-	Label(root, text=current_time).pack()
+	tk.Label(root, text=current_time).pack()
 	#prints the current time.
-	Label(root, text=note).pack()
+	tk.Label(root, text=note).pack()
 	#prints the input.
 	root.mainloop()
 	#keeps showing the note, until the user closes it.
