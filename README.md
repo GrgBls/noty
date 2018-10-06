@@ -55,6 +55,7 @@
     # You are now ready to use it.
 
 ## Plans:
+---
 
 ##### This project has definitely interested me a lot, and there are couple of things that I could do in order to improve noty.
 
@@ -83,11 +84,14 @@
     # With that being said, I will try as hard as I can in order to actually implement it. Thanks for understanding!
     
 ## Donations
+---
+ 
  Donations aren't of course required but are greatly appreciated, since they help me buy better hardware, suitable for my next projects! Thanks in advance. If you want to donate, click here: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/GrgBls)
 
 
 ## Contributing instructions.
 
+---
 1. Fork the repository.
 2. Create your branch: `git checkout -b my-branch`
 3. Commit your changes: `git commit -am 'Fixed something.'`
