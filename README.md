@@ -17,7 +17,6 @@
 ## Installation
 ---
 
-
 ## Using pip:
     
     # Install it
@@ -56,7 +55,6 @@
 
 ## Plans:
 ---
-
 ##### This project has definitely interested me a lot, and there are couple of things that I could do in order to improve noty.
 
 ##### First and foremost, I am currently working on finding a way not to necessarily have the terminal open while running noty. Right now, if you close the terminal, noty will close as well which can be proven annoying for a wide variety of users.
@@ -85,12 +83,10 @@
     
 ## Donations
 ---
- 
  Donations aren't of course required but are greatly appreciated, since they help me buy better hardware, suitable for my next projects! Thanks in advance. If you want to donate, click here: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/GrgBls)
 
 
 ## Contributing instructions.
-
 ---
 1. Fork the repository.
 2. Create your branch: `git checkout -b my-branch`
