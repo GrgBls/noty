@@ -56,11 +56,11 @@
 
 ## Plans:
 
-#### This project has definitely interested me a lot, and there are couple of things that I could do in order to improve noty.
+##### This project has definitely interested me a lot, and there are couple of things that I could do in order to improve noty.
 
-#### First and foremost, I am currently working on finding a way not to necessarily have the terminal open while running noty. Right now, if you close the terminal, noty will close as well which can be proven annoying for a wide variety of users.
+##### First and foremost, I am currently working on finding a way not to necessarily have the terminal open while running noty. Right now, if you close the terminal, noty will close as well which can be proven annoying for a wide variety of users.
 
-#### Also, I would love to implement an alarm like feature, that will remind you of your notes. I am not currently working on that, but I have some plans for the future. Let me make an example.
+##### Also, I would love to implement an alarm like feature, that will remind you of your notes. I am not currently working on that, but I have some plans for the future. Let me make an example.
    
     # Run it
     $ noty
