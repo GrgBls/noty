@@ -53,6 +53,33 @@
 
     # You are now ready to use it.
 
+## Plans:
+
+This project has definitely interested me a lot, and there are couple of things that I could do in order to improve noty.
+
+First and foremost, I am currently working on finding a way not to necessarily have the terminal open while running noty. Right now, if you close the terminal, noty will close as well which can be proven annoying for a wide variety of users.
+
+Also, I would love to implement an alarm like feature, that will remind you of your notes. I am not currently working on that, but I have some plans for the future. Let me make an example.
+   
+    # Run it
+    $ noty
+
+    # Type your notes.
+    $ Remember to buy milk.
+    
+    $ Would you like us to remind you of that?
+    $ Yes.
+    
+    # If you won't want a reminder, you could simply leave it blank. 
+    # In this case, I am just illustrating the reminder option that will come some time in the future.
+    $ Please enter the time, you want us to remind it to you.
+    $ 5.30
+    
+    # In this case, noty will remind you to buy milk at 5.30.
+
+    # Keep in mind that this hasn't been implemented as yet and nothing is 100 percent sure.
+    # With that being said, I will try as hard as I can in order to actually implement it. Thanks for understanding!
+
 
 ## Contributing instructions.
 
