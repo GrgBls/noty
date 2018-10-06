@@ -71,8 +71,8 @@
     $ Would you like us to remind you of that?
     $ Yes.
     
-    # If you won't want a reminder, you could simply leave it blank. 
-    # In this case, I am just illustrating the reminder option that will come some time in the future.
+    # If you do not want a reminder, you could simply leave it blank. 
+    # In this case, I am just illustrating the reminder option that may come some time in the future.
     
     $ Please enter the time, you want us to remind it to you.
     $ 5.30
@@ -81,6 +81,9 @@
 
     # Keep in mind that this hasn't been implemented as yet and nothing is 100 percent sure.
     # With that being said, I will try as hard as I can in order to actually implement it. Thanks for understanding!
+    
+## Donations
+ Donations aren't of course required but are greatly appreciated, since they help me buy better hardware, suitable for my next projects! Thanks in advance. If you want to donate, click here: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/GrgBls)
 
 
 ## Contributing instructions.
