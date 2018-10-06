@@ -72,6 +72,7 @@ Also, I would love to implement an alarm like feature, that will remind you of y
     
     # If you won't want a reminder, you could simply leave it blank. 
     # In this case, I am just illustrating the reminder option that will come some time in the future.
+    
     $ Please enter the time, you want us to remind it to you.
     $ 5.30
     
