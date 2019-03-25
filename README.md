@@ -26,6 +26,7 @@
     $ noty
 
     # You are now ready to use it!
+    # If the installation for whatever reason fails, remember to try installing it using $ sudo
 
 ## Without using pip:
 
@@ -72,5 +73,4 @@ tkinter
 
 setuptools
 
-## important
-If the installation fails, or you experience issues with the program, remember to try installing using $ sudo
+
