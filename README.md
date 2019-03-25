@@ -20,7 +20,7 @@
 ## Using pip:
     
     # Install it
-    $ sudo pip3 install noty
+    $ pip3 install noty
 
     # Run it
     $ noty
@@ -71,3 +71,6 @@ python3
 tkinter
 
 setuptools
+
+## important
+If the installation fails, or you experience issues with the program, remember to try installing using $ sudo
