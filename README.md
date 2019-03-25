@@ -17,18 +17,17 @@
 ## Installation
 ---
 
-## Using pip:
-    
+## Using pipx:
+
     # Install it
-    $ pip3 install noty
+    $ pipx install noty
 
     # Run it
     $ noty
 
     # You are now ready to use it!
-    # If the installation for whatever reason fails, remember to try installing it using $ sudo
 
-## Without using pip:
+## Without using pipx:
 
     # Clone the repository
     $ git clone https://github.com/GrgBls/noty.git
@@ -73,4 +72,4 @@ tkinter
 
 setuptools
 
-
+pipx
