@@ -1,5 +1,5 @@
 ### Creating sticky notes has never been easier.
-[![PyPI_version](https://img.shields.io/badge/PyPI%20version-0.9.2-yellow.svg)](https://pypi.org/project/noty)
+[![PyPI_version](https://img.shields.io/pypi/v/noty.svg)](https://pypi.org/project/noty)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub license](https://img.shields.io/github/license/GrgBls/Noty.svg)](https://github.com/GrgBls/noty/blob/master/LICENSE)
 
@@ -9,6 +9,7 @@
 
 #### :heavy_exclamation_mark: This program will not work with Python2, it only works with Python3
 
+
 <a href="https://cloud.githubusercontent.com/assets/24195309/26754364/e3bcdbce-4879-11e7-924b-82e9dc434b50.gif"><img src="https://cloud.githubusercontent.com/assets/24195309/26754364/e3bcdbce-4879-11e7-924b-82e9dc434b50.gif" title="Noty"/></a>
 
 
@@ -16,6 +17,7 @@
 
 ## Installation
 ---
+#### For ease of installation, it is recommended you use pipx instead of pip.
 
 ## Using pipx:
 
