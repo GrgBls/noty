@@ -2,7 +2,7 @@
 [![PyPI_version](https://img.shields.io/pypi/v/noty.svg)](https://pypi.org/project/noty)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub license](https://img.shields.io/github/license/GrgBls/Noty.svg)](https://github.com/GrgBls/noty/blob/master/LICENSE)
-[![PyPI download total](https://img.shields.io/pypi/dt/noty.svg)](https://pypi.python.org/pypi/noty/)
+[![PyPI download month](https://img.shields.io/pypi/dm/noty.svg)]
 
 
 ### Now available at PyPI: [noty](https://pypi.org/project/noty)
