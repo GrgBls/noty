@@ -2,7 +2,7 @@ import tkinter as tk
 
 def cli():
 	import time
-	current_time = time.strftime("%H:%M:%S")
+	current_time = time.strftime("%H:%M")
 	#gets the current time.
 	print("Welcome to Noty.You can now create sticky notes, easily.")
 	time.sleep(1)

@@ -3,14 +3,15 @@ from setuptools import setup
 setup(
     name = 'noty',
     packages=["noty"],
-    version = '0.9.2',
-    description = 'Creating sticky notes has never been easier',
-    long_desciption = open('README.md').read(),
+    version = '0.10.0',
+    description = 'Creating sticky notes has never been easier.',
+    long_desciption = 'A simple GUI sticky note program created with tkinter.',
     author = 'GrgBls',
     author_email = 'grgbls647@gmail.com',
     url = 'https://github.com/GrgBls/noty',
+    license = 'MIT',
     py_modules=['noty'],
-    install_requires=[],
+    install_requires=[''],
     entry_points='''
         [console_scripts]
         noty=noty.noty:cli
