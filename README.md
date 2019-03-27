@@ -2,7 +2,7 @@
 [![PyPI_version](https://img.shields.io/pypi/v/noty.svg)](https://pypi.org/project/noty)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub license](https://img.shields.io/github/license/GrgBls/Noty.svg)](https://github.com/GrgBls/noty/blob/master/LICENSE)
-[!last-commit](https://img.shields.io/github/last-commit/GrgBls/noty.svg)]
+[![last-commit](https://img.shields.io/github/last-commit/GrgBls/noty.svg)]
 
 
 
