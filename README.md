@@ -56,22 +56,8 @@
     # You are now ready to use it.
 
 
-## Contributing instructions.
+## Installation requirements.
 ---
-1. Fork the repository.
-2. Create your branch: `git checkout -b my-branch`
-3. Commit your changes: `git commit -am 'Fixed something.'`
-4. Push to the branch: `git push origin my-branch`
-5. Submit a pull request.
-
-
-
-### install_requires
-
 python3
-
 tkinter
-
-setuptools
-
 pipx
