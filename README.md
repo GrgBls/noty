@@ -2,7 +2,7 @@
 [![PyPI_version](https://img.shields.io/badge/PyPI%20version-0.9.2-yellow.svg)](https://pypi.org/project/noty)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub license](https://img.shields.io/github/license/GrgBls/Noty.svg)](https://github.com/GrgBls/noty/blob/master/LICENSE)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/GrgBls)
+
 
 
 #### Now available at PyPI: [noty](https://pypi.org/project/noty)
