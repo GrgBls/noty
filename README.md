@@ -10,7 +10,7 @@
 #### :heavy_exclamation_mark: This program will not work with Python2, it only works with Python3
 
 
-<a href="https://user-images.githubusercontent.com/24195309/55061882-1d087500-5075-11e9-9a6d-4448b40d1767.gif)"><img src="https://user-images.githubusercontent.com/24195309/55061882-1d087500-5075-11e9-9a6d-4448b40d1767.gif)" title="Noty"/></a>
+<a href="https://user-images.githubusercontent.com/24195309/55061882-1d087500-5075-11e9-9a6d-4448b40d1767.gif"><img src="https://user-images.githubusercontent.com/24195309/55061882-1d087500-5075-11e9-9a6d-4448b40d1767.gif" title="Noty"/></a>
 
 
 
