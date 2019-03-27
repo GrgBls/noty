@@ -33,6 +33,18 @@
 
 ## Without using pipx:
 
+### Using pip:
+
+    # Install it
+    $ pip3 install noty
+
+    # Run it
+    $ noty
+
+    # You are now ready to use it!
+
+### Without using pip:
+
     # Clone the repository
     $ git clone https://github.com/GrgBls/noty.git
 
@@ -50,7 +62,7 @@
 ## How to:
 
     # Run it
-    $ noty
+    $ noty #If this doesn't work, try reinstalling using the command sudo.
 
     # Type your notes
     $ Remember to buy milk.
