@@ -59,5 +59,7 @@
 ## Installation requirements.
 ---
 python3
+
 tkinter
+
 pipx
