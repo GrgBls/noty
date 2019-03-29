@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name = 'noty',
     packages=["noty"],
-    version = '0.10.0',
+    version = '0.11.0',
     description = 'Creating sticky notes has never been easier.',
     long_desciption = 'A simple GUI sticky note program created with tkinter.',
     author = 'GrgBls',
@@ -14,6 +14,6 @@ setup(
     install_requires=[''],
     entry_points='''
         [console_scripts]
-        noty=noty.noty:cli
+        noty=noty.main:cli
     ''',
 )

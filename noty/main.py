@@ -23,4 +23,3 @@ def cli():
     # keeps showing the note, until the user closes it.
 
 
-cli()
