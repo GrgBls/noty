@@ -41,9 +41,11 @@
 
     # You are now ready to use it.
 
+
 ## Troubleshooting
 
 If the command 'noty' doesn't work after you install it, you will need to permanently set $PATH on your operating system. Alteratively, you can uninstall noty using 'pip3 uninstall noty' and reinstall it using 'sudo'
+
 
 
 ## Installation requirements.
