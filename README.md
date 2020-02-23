@@ -12,7 +12,7 @@
 #### Easy and fast installation.
 
 
-<a href="https://user-images.githubusercontent.com/24195309/55061882-1d087500-5075-11e9-9a6d-4448b40d1767.gif"><img src="https://user-images.githubusercontent.com/24195309/55061882-1d087500-5075-11e9-9a6d-4448b40d1767.gif" title="Noty"/></a>
+<a href="https://user-images.githubusercontent.com/24195309/75120086-d6f2d180-5688-11ea-9689-1276282c75c0.gif"><img src="https://user-images.githubusercontent.com/24195309/75120086-d6f2d180-5688-11ea-9689-1276282c75c0.gif" title="Noty"/></a>
 
 
 
